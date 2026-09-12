@@ -12,38 +12,43 @@
 
 ## 🎮 What I do
 
-Mainly making games with **Unity + C#**.
+I mainly make games with **Unity + C#**.
 
-I like turning weird ideas into actual playable things.
+Sometimes I make features.  
+Sometimes I make bugs.  
+Usually both.
 
-Sometimes I also touch Linux, C++, Python,  
+I also enjoy messing around with Linux, Blender,  
 and whatever else looks interesting.
 
 ---
 
-## 🛠️ Things I can actually write
+## 🛠️ Things I'm comfortable with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,cpp,html,css,blender,git,github" />
 </p>
 
 **Main:**  
 Unity / C#
 
-**Also comfortable with:**  
+**Languages:**  
 Python / C++ / HTML / CSS
+
+**Tools:**  
+Blender / Git / GitHub
 
 ---
 
 ## 🔧 Things I've used
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,php,git,github,linux,blender" />
+  <img src="https://skillicons.dev/icons?i=mysql,php,linux" />
 </p>
 
-MySQL / PHP / Git / GitHub / Linux / Blender
+MySQL / PHP / Linux
 
-> Knowing how to use something and knowing what I'm doing are different things.
+> I've used them. Whether I fully understand them is another question.
 
 ---
 
@@ -53,6 +58,80 @@ MySQL / PHP / Git / GitHub / Linux / Blender
 - 🐛 Creating bugs
 - 🔨 Fixing the bugs I created
 - 🐧 Occasionally poking Linux
+- 🎨 Making things in Blender
+- 📚 Learning whatever becomes necessary
+
+---
+
+<div align="center">
+
+### 🐡 Fugu0141
+
+**Make → Break → Fix → Repeat**
+
+[🌐 Portfolio](https://fugu0141.github.io/)
+
+</div><div align="center">
+
+# Hi, I'm Fugu 🐡
+
+**I make games. Sometimes they even work.**
+
+[Portfolio](https://fugu0141.github.io/) • [GitHub](https://github.com/Fugu0141)
+
+</div>
+
+---
+
+## 🎮 What I do
+
+I mainly make games with **Unity + C#**.
+
+Sometimes I make features.  
+Sometimes I make bugs.  
+Usually both.
+
+I also enjoy messing around with Linux, Blender,  
+and whatever else looks interesting.
+
+---
+
+## 🛠️ Things I'm comfortable with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,cpp,html,css,blender,git,github" />
+</p>
+
+**Main:**  
+Unity / C#
+
+**Languages:**  
+Python / C++ / HTML / CSS
+
+**Tools:**  
+Blender / Git / GitHub
+
+---
+
+## 🔧 Things I've used
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,php,linux" />
+</p>
+
+MySQL / PHP / Linux
+
+> I've used them. Whether I fully understand them is another question.
+
+---
+
+## 🚧 Currently
+
+- 🎮 Making games with Unity
+- 🐛 Creating bugs
+- 🔨 Fixing the bugs I created
+- 🐧 Occasionally poking Linux
+- 🎨 Making things in Blender
 - 📚 Learning whatever becomes necessary
 
 ---
