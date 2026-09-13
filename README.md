@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./images/banner.png" width="100%" />
+# Hi, I'm Fugu 🐡
 
 **I make games. Sometimes they even work.**
 
